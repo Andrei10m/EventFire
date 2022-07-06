@@ -1,0 +1,7 @@
+.profile-view-container{
+    display: "flex" !important;
+    alignItems: "center" !important;
+    justifyContent: "center" !important;
+    height: "100" !important;
+    flex-direction: column !important;
+}
